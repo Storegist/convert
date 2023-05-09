@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntumaster/Documents/test/convert/convert.cpp
+iostream
+-
+
+/home/ubuntumaster/Documents/test/convert/main.cpp
+iostream
+-
+convert.cpp
+/home/ubuntumaster/Documents/test/convert/convert.cpp
+

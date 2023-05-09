@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntumaster/Documents/test/convert/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/convert.dir/main.cpp.o -c /home/ubuntumaster/Documents/test/convert/main.cpp",
+  "file": "/home/ubuntumaster/Documents/test/convert/main.cpp"
+}
+]
